@@ -1,0 +1,17 @@
+*.iml
+.gradle
+/local.properties
+/.idea/*
+.DS_Store
+/build
+**/debug
+**/release
+/captures
+.externalNativeBuild
+.cxx
+local.properties
+**/assets/apps
+**/build/outputs/logs
+
+# Project exclude paths
+/simpleDemo/build/
