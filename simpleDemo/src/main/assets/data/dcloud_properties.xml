@@ -34,6 +34,7 @@
 		<feature name="Geolocation" value="io.dcloud.js.geolocation.GeolocationFeatureImpl"/>
 		<feature name="Stream" value="io.dcloud.appstream.js.StreamAppFeatureImpl"/>
         <feature name="plugintest" value="com.example.H5PlusPlugin.PGPlugintest"/>
+		<feature name="VideoPlayer" value="io.dcloud.media.MediaFeatureImpl"/>
 	</features>
 
 	<services>
